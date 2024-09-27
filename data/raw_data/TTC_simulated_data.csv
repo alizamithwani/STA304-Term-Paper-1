@@ -1,0 +1,101 @@
+date,incident,time,min_delay
+2024-07-07,Operations - Operator,04:45,8
+2024-03-18,Mechanical,16:47,7
+2024-07-28,Vision,23:50,10
+2024-04-23,Collision - TTC,12:13,10
+2024-03-14,Diversion,10:32,16
+2024-08-12,Mechanical,15:57,16
+2024-04-24,Emergency Services,11:46,7
+2024-05-27,Mechanical,08:57,10
+2024-08-15,Diversion,16:18,9
+2024-03-07,Security,16:11,11
+2024-01-03,Collision - TTC,03:37,9
+2024-05-04,Mechanical,22:47,6
+2024-05-24,Security,13:23,11
+2024-07-16,Diversion,01:52,9
+2024-03-13,Mechanical,22:59,9
+2024-06-25,Emergency Services,10:45,10
+2024-07-14,Diversion,19:12,7
+2024-04-07,Utilized Off-Route,22:34,9
+2024-03-25,Mechanical,15:44,8
+2024-02-29,Cleaning - Unsanitary,20:15,6
+2024-02-17,Cleaning - Unsanitary,14:49,4
+2024-03-24,Vision,01:17,8
+2024-04-11,Collision - TTC,20:49,11
+2024-04-25,Investigation,18:27,11
+2024-06-16,Mechanical,22:48,4
+2024-04-11,Road Blocked - NON-TTC,17:41,6
+2024-02-26,Operations - Operator,22:30,9
+2024-04-21,Cleaning - Unsanitary,17:34,7
+2024-07-22,Road Blocked - NON-TTC,14:52,11
+2024-07-17,Vision,06:25,10
+2024-06-20,Diversion,10:54,10
+2024-07-04,Mechanical,02:46,13
+2024-08-09,Utilized Off-Route,10:30,12
+2024-01-11,General Delay,23:14,16
+2024-05-07,Cleaning - Unsanitary,21:57,7
+2024-06-03,Collision - TTC,14:42,9
+2024-01-05,Security,13:03,8
+2024-03-01,General Delay,00:24,13
+2024-07-08,Collision - TTC,15:06,14
+2024-04-24,Cleaning - Unsanitary,05:43,22
+2024-05-27,Mechanical,19:35,11
+2024-03-12,Mechanical,11:03,9
+2024-07-18,Vision,07:47,9
+2024-05-15,General Delay,16:05,7
+2024-04-28,Vision,22:49,9
+2024-02-02,Operations - Operator,04:55,13
+2024-01-05,Utilized Off-Route,05:15,14
+2024-05-09,Utilized Off-Route,09:41,7
+2024-02-21,Road Blocked - NON-TTC,22:01,12
+2024-06-05,General Delay,13:42,6
+2024-01-02,General Delay,18:44,9
+2024-05-20,Road Blocked - NON-TTC,06:07,13
+2024-03-16,General Delay,03:42,6
+2024-07-10,Vision,18:55,3
+2024-03-10,Security,05:12,7
+2024-06-05,Cleaning - Unsanitary,04:48,9
+2024-06-07,Vision,14:50,10
+2024-01-12,Security,18:05,19
+2024-05-21,Emergency Services,06:25,14
+2024-06-12,Operations - Operator,21:15,4
+2024-06-29,Security,23:05,11
+2024-07-15,Investigation,04:07,9
+2024-07-06,Security,14:21,11
+2024-04-06,Vision,14:50,17
+2024-06-03,Security,11:29,12
+2024-03-26,Collision - TTC,12:26,20
+2024-08-30,Emergency Services,00:09,11
+2024-03-18,Cleaning - Unsanitary,09:04,8
+2024-05-30,Operations - Operator,01:56,12
+2024-07-18,Operations - Operator,10:20,6
+2024-02-13,Road Blocked - NON-TTC,08:56,6
+2024-03-31,Operations - Operator,09:56,13
+2024-03-23,Collision - TTC,02:26,14
+2024-08-17,Road Blocked - NON-TTC,00:29,16
+2024-01-16,Road Blocked - NON-TTC,10:53,11
+2024-08-06,Cleaning - Unsanitary,15:12,7
+2024-03-08,Investigation,07:07,8
+2024-07-13,Cleaning - Unsanitary,19:46,8
+2024-05-10,Utilized Off-Route,00:07,10
+2024-03-12,Diversion,03:52,13
+2024-02-14,Investigation,22:07,7
+2024-01-16,Mechanical,12:36,6
+2024-04-21,Diversion,01:36,11
+2024-04-11,Security,13:47,8
+2024-07-22,Collision - TTC,02:26,9
+2024-03-16,Diversion,12:44,11
+2024-06-28,Operations - Operator,13:12,10
+2024-01-29,Investigation,23:39,10
+2024-05-19,Diversion,16:43,15
+2024-05-27,General Delay,13:07,11
+2024-05-26,Emergency Services,12:22,13
+2024-07-02,Collision - TTC,05:02,14
+2024-02-15,Road Blocked - NON-TTC,16:32,10
+2024-04-19,Diversion,15:46,15
+2024-06-07,Operations - Operator,01:07,8
+2024-03-12,Security,22:22,9
+2024-02-19,Road Blocked - NON-TTC,23:04,10
+2024-05-03,Security,18:49,9
+2024-07-11,Diversion,10:58,5
+2024-05-21,Emergency Services,10:18,10
