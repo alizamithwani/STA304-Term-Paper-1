@@ -1,8 +1,10 @@
-# Starter folder
+# TTC Delays Analysis
 
 ## Overview
 
 This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
+
+This is a detailed analysis of incidents that cause TTC bus delays in 2024 (January to August) using a dataset from Open Data Toronto.
 
 
 ## File Structure
